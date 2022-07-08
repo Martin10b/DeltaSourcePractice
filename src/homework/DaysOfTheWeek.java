@@ -1,8 +1,8 @@
-
+package homework;
 import java.util. Scanner;
     public class DaysOfTheWeek{
         public static void main(String[] args) {
-            Scanner SC = new Scanner(System.in);
+            Scanner sc = new Scanner(System.in);
             int input = sc.nextInt();
             switch (input) {
                 case 1:
