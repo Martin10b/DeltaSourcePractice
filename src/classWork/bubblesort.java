@@ -1,6 +1,6 @@
 package classWork;
 
-public class bubbleSort {
+public class bubblesort {
     static void BubbleSort(int[] arr) {
         int n = arr.length;
         int temp = 0;
